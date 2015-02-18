@@ -1,5 +1,6 @@
 # breakable_toys
 ===
-Toys to learn and play with
-1. CnSArchitecture
+Toys to learn and play with(python)
+
+1. network programming 
 
